@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doSomethingFunny
+- 👋 Hi
 - 👀 I’m interested in web / computer graphics / qt.
 - 🌱 I’m currently learning osg
 <!---
