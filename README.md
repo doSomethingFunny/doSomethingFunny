@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I’m interested in web / computer graphics / qt.
+- 👀 I’m interested in web / qt / computer graphics. 
 - 🌱 I’m currently learning osg
 <!---
 - 💞️ I’m looking to collaborate on ...
